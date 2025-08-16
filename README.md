@@ -1,4 +1,4 @@
-# 🚀 138 Days of Becoming a Top 5% Data Analyst
+# 🚀 138 Days of Leveling Up in Data Analytics
 
 Hi, I’m **Shrinivas** — a final-year B.Tech student (pass out in 2026) on a mission to become a **Top 5% Data Analyst** in just **138 days**.  
 This journey is all about consistent daily practice, skill building, and tracking my progress openly.
